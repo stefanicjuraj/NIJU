@@ -78,7 +78,7 @@
                                             : undefined}
                                     >
                                         <a
-                                            href="/"
+                                            href="/company/projects"
                                             class="flex items-center text-black dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
@@ -91,12 +91,12 @@
                                     </li>
                                     <li
                                         aria-current={$page.url.pathname ===
-                                        "/about"
+                                        "/about-us"
                                             ? "page"
                                             : undefined}
                                     >
                                         <a
-                                            href="/about"
+                                            href="/company/about-us"
                                             class="flex items-center text-black dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
