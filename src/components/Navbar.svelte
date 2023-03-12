@@ -26,7 +26,7 @@
             </a>
             <div class="flex items-center md:order-2">
                 <a
-                    href="/"
+                    href="/company/contact"
                     id="green"
                     class="text-white green hover:green focus:ring-1 font-medium rounded-lg text-sm px-4 py-2 md:px-5 md:py-2.5 mr-1 md:mr-2"
                     >Contact us!</a
