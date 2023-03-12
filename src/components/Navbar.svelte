@@ -6,6 +6,21 @@
     import aboutus from "../lib/icons/about-us.svg";
     import contact from "../lib/icons/contact.svg";
     import careers from "../lib/icons/careers.svg";
+    import softwaredevelopment from "../lib/icons/software-development.svg";
+    import webdevelopment from "../lib/icons/web-development.svg";
+    import productdesign from "../lib/icons/product-design.svg";
+    import digitalmarketing from "../lib/icons/digital-marketing.svg";
+    import social from "../lib/icons/social.svg";
+    import events from "../lib/icons/events.svg";
+    import seo from "../lib/icons/seo.svg";
+    import publicrelations from "../lib/icons/public-relations.svg";
+    import docs from "../lib/icons/docs.svg";
+    import blog from "../lib/icons/blog.svg";
+    import press from "../lib/icons/press.svg";
+    import slackdiscord from "../lib/icons/slack-discord.svg";
+    import eventsesg from "../lib/icons/events-esg.svg";
+    import support from "../lib/icons/support.svg";
+
 </script>
 
 <header>
@@ -172,7 +187,7 @@
                                             class="flex items-center text-black dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/software-development.svg"
+                                                src={softwaredevelopment}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -198,7 +213,7 @@
                                             class="flex items-center text-gray-500 hover:text-gray-900 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/web-design.svg"
+                                                src={webdevelopment}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -211,7 +226,7 @@
                                             class="flex items-center text-gray-500 dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/product-design.svg"
+                                                src={productdesign}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -230,7 +245,7 @@
                                             class="flex items-center text-black dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                         <img
-                                        src="../src/lib/icons/digital-marketing.svg"
+                                        src={digitalmarketing}
                                         class="mr-2 w-6 h-6 text-black"
                                         alt="test"
                                     />
@@ -243,7 +258,7 @@
                                             class="flex items-center text-gray-500 dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/social.svg"
+                                                src={social}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -256,7 +271,7 @@
                                             class="flex items-center text-gray-500 dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/events.svg"
+                                                src={events}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -269,7 +284,7 @@
                                             class="flex items-center text-gray-500 dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/seo.svg"
+                                                src={seo}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -282,7 +297,7 @@
                                             class="flex items-center text-black dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/public-relations.svg"
+                                                src={publicrelations}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -323,7 +338,7 @@
                                             class="flex items-center text-gray-500 dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/docs.svg"
+                                                src={docs}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -336,7 +351,7 @@
                                             class="flex items-center text-gray-500 dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/blog.svg"
+                                                src={blog}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -349,7 +364,7 @@
                                             class="flex items-center text-gray-500 dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/press.svg"
+                                                src={press}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -390,7 +405,7 @@
                                             class="flex items-center text-gray-500 dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/slack-discord.svg"
+                                                src={slackdiscord}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -403,7 +418,7 @@
                                             class="flex items-center text-gray-500 dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/events-esg.svg"
+                                                src={eventsesg}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
@@ -416,7 +431,7 @@
                                             class="flex items-center text-gray-500 dark:text-gray-400 hover:text-blue-600 group"
                                         >
                                             <img
-                                                src="../src/lib/icons/support.svg"
+                                                src={support}
                                                 class="mr-2 w-6 h-6 text-black"
                                                 alt="test"
                                             />
