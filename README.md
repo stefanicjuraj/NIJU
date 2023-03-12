@@ -2,7 +2,7 @@
 <br />
 
 <div align="center">
-<img src="#" width="13%" height="13%">
+<img src="#" width="30%" height="30%">
 </div>
 
   <p align="center">
